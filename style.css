@@ -61,3 +61,16 @@ ul {
   flex: 1;
   margin-left: 20px;
 }
+
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  font-weight: bold;
+  padding: 10px 20px;
+  background: #fff;
+  color: #000;
+  font-size: 22px;
+  border: 4px solid #000;
+  border-radius: 25px;
+  text-transform: uppercase;
+}
