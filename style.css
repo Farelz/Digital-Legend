@@ -175,7 +175,6 @@ ul {
 
 .pricing h2 {
   text-align: center;
-  margin-bottom: 60px;
   padding-top: 30px;
 }
 
@@ -183,13 +182,29 @@ ul {
   background-color: #90ee90;
 }
 
+.pricing hr {
+  background: #90ee90;
+  border: none;
+  height: 3px;
+  margin: 1em auto;
+  width: 3.125rem;
+}
+
 .footer {
-  height: 75vh;
+  height: 69vh;
 }
 
 .footer h1 {
   text-align: center;
   margin-top: 24px;
+}
+
+.footer hr {
+  background: red;
+  border: none;
+  height: 3px;
+  margin: 1em auto;
+  width: 3.125rem;
 }
 
 @media (max-width: 700px) {
