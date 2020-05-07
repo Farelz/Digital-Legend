@@ -207,6 +207,12 @@ ul {
   width: 3.125rem;
 }
 
+.footer_container {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
 @media (max-width: 700px) {
   .col {
     width: 100%;
