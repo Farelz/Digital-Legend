@@ -122,7 +122,7 @@ ul {
 .pricing {
   background: #333;
   color: #fff;
-  height: 100vh;
+  height: 75vh;
 }
 
 .col {
@@ -211,6 +211,36 @@ ul {
   display: flex;
   justify-content: space-between;
   align-content: center;
+}
+
+.footer_1 {
+  line-height: 1.5;
+  margin: 32px 0;
+  padding: 48px 16px;
+}
+
+.footer_1 > h2 {
+  margin: 9px 0;
+}
+
+.footer_2 {
+  line-height: 1.5;
+  margin: 32px 0;
+  padding: 48px 16px;
+}
+
+.footer_2 > h2 {
+  margin: 9px 0;
+}
+
+.footer_3 {
+  line-height: 1.5;
+  margin: 32px 0;
+  padding: 48px 16px;
+}
+
+.footer_3 > h2 {
+  margin: 9px 0;
 }
 
 @media (max-width: 700px) {
