@@ -221,6 +221,7 @@ ul {
 
 .footer_1 > h2 {
   margin: 9px 0;
+  font-size: 19px;
 }
 
 .footer_2 {
@@ -231,6 +232,7 @@ ul {
 
 .footer_2 > h2 {
   margin: 9px 0;
+  font-size: 19px;
 }
 
 .footer_3 {
@@ -241,6 +243,19 @@ ul {
 
 .footer_3 > h2 {
   margin: 9px 0;
+  font-size: 19px;
+}
+
+.fa-power-off {
+  color: red;
+}
+
+.fa-desktop {
+  color: red;
+}
+
+.fa-database {
+  color: red;
 }
 
 @media (max-width: 700px) {
