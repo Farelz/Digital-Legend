@@ -258,6 +258,21 @@ ul {
   color: red;
 }
 
+.footer_1 > a {
+  color: red;
+  font-size: 16px;
+}
+
+.footer_2 > a {
+  color: red;
+  font-size: 16px;
+}
+
+.footer_3 > a {
+  color: red;
+  font-size: 16px;
+}
+
 @media (max-width: 700px) {
   .col {
     width: 100%;
